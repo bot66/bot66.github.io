@@ -34,8 +34,7 @@ github_username:  jekyll
 theme: jekyll-theme-console
 
 header_pages:
-  - index.markdown
-  - blogs.md
+  - index.md
   - tags.html
   - categories.html
   - about.markdown

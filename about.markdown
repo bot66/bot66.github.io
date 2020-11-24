@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: /about
+permalink: /about
 ---
 
-In progress
+组织语言中。。。
